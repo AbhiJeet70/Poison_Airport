@@ -32,7 +32,7 @@ This will load the datasets, train the models, apply perturbations, and save the
 The results of the experiments, including plots of the test accuracy against the perturbation percentage, will be saved in the current directory.
 
 ## Files
-The results of the experiments, including plots of the test accuracy against the perturbation percentage, will be saved in the current directory. The CSV file perturbation_results_airports.csv contains the results of the experiments.
+The CSV file perturbation_results_airports.csv contains the results of the experiments.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
